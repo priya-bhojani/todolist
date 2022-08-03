@@ -6,7 +6,7 @@ Features :
 
 Trade-off :
 
-As I had very limited time to finish this test, there are few trade-offs that I decided to make:
+As I had very limited time to finish this sample, there are few trade-offs that I decided to make:
 
 1. Clean code: Yes
 2. Error handling : No
